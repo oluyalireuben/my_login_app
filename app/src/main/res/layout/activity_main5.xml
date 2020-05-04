@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#5B6FDC"
+    android:layout_height="match_parent"
+    tools:context=".Main5Activity">
+
+    <EditText
+        android:id="@+id/mEdtNameSell"
+        android:layout_width="match_parent"
+        android:background="@drawable/login_edit_background"
+        android:padding="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginTop="130dp"
+        android:hint="Username"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/mEdtPhoneSell"
+        android:layout_width="match_parent"
+        android:background="@drawable/login_edit_background"
+        android:padding="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="23dp"
+        android:hint="Phone Number"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/mEdtCountySell"
+        android:layout_width="match_parent"
+        android:background="@drawable/login_edit_background"
+        android:padding="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="23dp"
+        android:hint="County"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/mEdtVillageSell"
+        android:layout_width="match_parent"
+        android:background="@drawable/login_edit_background"
+        android:padding="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="23dp"
+        android:hint="Village/in town"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/mEdtGoodsSell"
+        android:layout_width="match_parent"
+        android:background="@drawable/login_edit_background"
+        android:padding="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="23dp"
+        android:hint="Items that you provide"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/mEdtPassSell"
+        android:layout_width="match_parent"
+        android:background="@drawable/login_edit_background"
+        android:padding="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="23dp"
+        android:hint="Password"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/mBtnSaveSell"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_background"
+        android:text="Submit"
+        android:layout_marginStart="70dp"
+        android:layout_marginEnd="60dp"
+        android:textAllCaps="false"
+        android:textSize="21sp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

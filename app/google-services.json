@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381124537009",
+    "firebase_url": "https://sheriff-b865c.firebaseio.com",
+    "project_id": "sheriff-b865c",
+    "storage_bucket": "sheriff-b865c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381124537009:android:c85cce4cd514cbcb3f9090",
+        "android_client_info": {
+          "package_name": "com.example.sheriff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381124537009-743osn7eb4mufgl6l39s0jorqhbirhqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsW-g8AQme8hpYd43ANbQqYuvM4Kq9blo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381124537009-743osn7eb4mufgl6l39s0jorqhbirhqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

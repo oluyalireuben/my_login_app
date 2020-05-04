@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sheriff</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="tab_text_1">Seller</string>
+    <string name="tab_text_2">Buyer</string>
+    <string name="tab_text_3">Distributor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Food Sheriff</string>
+    <string name="nav_header_subtitle">foodsheriff01@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_exitting">Exit</string>
+
+    <string name="menu_home">App</string>
+    <string name="menu_slideshow">Order</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_main9">Main9Activity</string>
+</resources>

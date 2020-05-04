@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#569"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity">
+
+    <Button
+        android:id="@+id/mBtnSaleGoods"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_background"
+        android:text="Sell"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textAllCaps="false"
+        android:textSize="21sp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="30dp"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mBtnDonateGoods"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_background"
+        android:text="Donate"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textAllCaps="false"
+        android:textSize="21sp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="30dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/mBtnBuyGood"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_background"
+        android:text="Buy"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textAllCaps="false"
+        android:textSize="21sp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="30dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/mBtnGoHome"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_background"
+        android:text="Go to home"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textAllCaps="false"
+        android:textSize="21sp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="30dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
